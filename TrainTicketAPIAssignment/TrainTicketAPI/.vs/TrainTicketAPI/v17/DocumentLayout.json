@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Kasuni\\TrainTicketAPIAssignment\\TrainTicketAPIAssignment\\TrainTicketAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AC280-D3FD-461F-AE87-39DA02CCAE8A}|..\\TrainTicketFrontEnd\\TrainTicketFrontEnd.csproj|h:\\kasuni\\trainticketapiassignment\\trainticketapiassignment\\trainticketfrontend\\availableseatlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47AC280-D3FD-461F-AE87-39DA02CCAE8A}|..\\TrainTicketFrontEnd\\TrainTicketFrontEnd.csproj|h:\\kasuni\\trainticketapiassignment\\trainticketapiassignment\\trainticketfrontend\\addschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AvailableSeatList.cs [Design]",
+              "DocumentMoniker": "H:\\Kasuni\\TrainTicketAPIAssignment\\TrainTicketAPIAssignment\\TrainTicketFrontEnd\\AvailableSeatList.cs",
+              "RelativeDocumentMoniker": "..\\TrainTicketFrontEnd\\AvailableSeatList.cs",
+              "ToolTip": "H:\\Kasuni\\TrainTicketAPIAssignment\\TrainTicketAPIAssignment\\TrainTicketFrontEnd\\AvailableSeatList.cs [Design]",
+              "RelativeToolTip": "..\\TrainTicketFrontEnd\\AvailableSeatList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:03:29.353Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddSchedule.cs [Design]",
+              "DocumentMoniker": "H:\\Kasuni\\TrainTicketAPIAssignment\\TrainTicketAPIAssignment\\TrainTicketFrontEnd\\AddSchedule.cs",
+              "RelativeDocumentMoniker": "..\\TrainTicketFrontEnd\\AddSchedule.cs",
+              "ToolTip": "H:\\Kasuni\\TrainTicketAPIAssignment\\TrainTicketAPIAssignment\\TrainTicketFrontEnd\\AddSchedule.cs [Design]",
+              "RelativeToolTip": "..\\TrainTicketFrontEnd\\AddSchedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:03:16.175Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

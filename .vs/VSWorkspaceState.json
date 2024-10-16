@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TrainTicketAPIAssignment",
+    "\\TrainTicketAPIAssignment\\TrainTicketAPI",
+    "\\TrainTicketAPIAssignment\\TrainTicketAPI\\Interfaces",
+    "\\TrainTicketAPIAssignment\\TrainTicketAPI\\Migrations",
+    "\\TrainTicketAPIAssignment\\TrainTicketAPI\\Models",
+    "\\TrainTicketAPIAssignment\\TrainTicketAPI\\obj",
+    "\\TrainTicketAPIAssignment\\TrainTicketAPI\\packages",
+    "\\TrainTicketAPIAssignment\\TrainTicketAPI\\Properties",
+    "\\TrainTicketAPIAssignment\\TrainTicketFrontEnd"
+  ],
+  "SelectedNode": "\\TrainTicketAPIAssignment\\TrainTicketAPI\\Data\\ApplicationDBContext.cs",
+  "PreviewInSolutionExplorer": false
+}

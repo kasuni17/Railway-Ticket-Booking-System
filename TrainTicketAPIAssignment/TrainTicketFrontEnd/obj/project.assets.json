@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "H:\\Kasuni\\1_ICBT - HD in SE Assignment\\ICBT - HD in SE Assignment\\ICBT - HD in SE Assignment\\TrainTicketAPIAssignment\\TrainTicketAPIAssignment\\TrainTicketAPI\\TrainTicketAPI.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ilakshana\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "H:\\Kasuni\\1_ICBT - HD in SE Assignment\\ICBT - HD in SE Assignment\\ICBT - HD in SE Assignment\\TrainTicketAPIAssignment\\TrainTicketAPIAssignment\\TrainTicketFrontEnd\\TrainTicketFrontEnd.csproj",
+      "projectName": "TrainTicketFrontEnd",
+      "projectPath": "H:\\Kasuni\\1_ICBT - HD in SE Assignment\\ICBT - HD in SE Assignment\\ICBT - HD in SE Assignment\\TrainTicketAPIAssignment\\TrainTicketAPIAssignment\\TrainTicketFrontEnd\\TrainTicketFrontEnd.csproj",
+      "packagesPath": "C:\\Users\\ilakshana\\.nuget\\packages\\",
+      "outputPath": "H:\\Kasuni\\1_ICBT - HD in SE Assignment\\ICBT - HD in SE Assignment\\ICBT - HD in SE Assignment\\TrainTicketAPIAssignment\\TrainTicketAPIAssignment\\TrainTicketFrontEnd\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ilakshana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "H:\\Kasuni\\1_ICBT - HD in SE Assignment\\ICBT - HD in SE Assignment\\ICBT - HD in SE Assignment\\TrainTicketAPIAssignment\\TrainTicketAPIAssignment\\TrainTicketAPI\\TrainTicketAPI.csproj": {
+              "projectPath": "H:\\Kasuni\\1_ICBT - HD in SE Assignment\\ICBT - HD in SE Assignment\\ICBT - HD in SE Assignment\\TrainTicketAPIAssignment\\TrainTicketAPIAssignment\\TrainTicketAPI\\TrainTicketAPI.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'H:\\Kasuni\\1_ICBT - HD in SE Assignment\\ICBT - HD in SE Assignment\\ICBT - HD in SE Assignment\\TrainTicketAPIAssignment\\TrainTicketAPIAssignment\\TrainTicketAPI\\TrainTicketAPI.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "H:\\Kasuni\\1_ICBT - HD in SE Assignment\\ICBT - HD in SE Assignment\\ICBT - HD in SE Assignment\\TrainTicketAPIAssignment\\TrainTicketAPIAssignment\\TrainTicketAPI\\TrainTicketAPI.csproj",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
